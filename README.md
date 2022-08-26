@@ -1,4 +1,24 @@
-### Hi there 👋
+### Hi there, I'm Liubomyr 👋
+- 🌱 I’m currently learning ...
+
+
+My stack and tools
+
+Terminal
+
+Git
+
+GitHub
+
+Visual Studio Code
+
+HTML5
+
+CSS3
+
+Sass
+
+
 
 <!--
 **DolphiN1000/DolphiN1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
